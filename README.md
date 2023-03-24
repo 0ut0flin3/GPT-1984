@@ -1,4 +1,4 @@
-# GPT-1984
+# GPT1984
 **Join Discord to stay up-to-date about the progress https://discord.gg/MB4SD42WNd**
 
 GPT1984 allows the free use of GPT-3/4 thanks to the sharing of api-keys by people who decide to contribute
