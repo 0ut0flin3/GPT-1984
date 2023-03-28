@@ -7,4 +7,5 @@
 **Logs into openai.com bypassing the Cloudflare captcha, goes to chatgpt , write a prompt and get the response, all this autonomously using Selenium.**
 
 
-**...Other soon...**
+
+...Other soon...
