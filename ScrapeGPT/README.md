@@ -10,7 +10,7 @@ This Python script logs into openai.com bypassing the Cloudflare captcha, goes t
 To use it you will need:
 1) Have Chrome installed
 2) Change your email and password to yours inside the script
-3) Have chromedriver in the same folder
+
 
 
 After that:
