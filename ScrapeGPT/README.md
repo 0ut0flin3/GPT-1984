@@ -19,6 +19,8 @@ After that:
 
 `cd GPT-1984/ScrapeGPT`
 
+`pip install -r requirements.txt`
+
 `python3 app.py "hello, what are you doing?"`
 
 The response will be printed on the console at the end of the procedure.
