@@ -3,7 +3,7 @@
  
  
 ## [ScrapeGPT](https://github.com/0ut0flin3/GPT-1984/tree/main/ScrapeGPT)
-**Logs into openai.com bypassing the Cloudflare captcha, goes to chatgpt , write a prompt and get the response, all this autonomously using Selenium.**
+**logs into chat.openai.com bypassing the captcha, write a prompt and print the response**
 
 
 
