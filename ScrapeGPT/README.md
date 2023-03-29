@@ -2,6 +2,8 @@
 
 This Python script logs into openai.com bypassing the Cloudflare captcha, goes to chatgpt , write a prompt and print the response
 
+**P.S: we are working on adding cookies to remember login and avoid repeat the login every time**
+
 
 
 
